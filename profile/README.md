@@ -8,4 +8,6 @@ Este espaço é voltado para compartilhar projetos desenvolvidos em grupo, com f
 ## 🧑‍🎓 Postagem de Trabalhos e Projetos da Faculdade
 Aqui também são postados trabalhos e projetos acadêmicos realizados durante a faculdade. Registrando aqui nossos exercícios e reunindo conteúdos que contribuam para o crescimento de todos.
 
-<!-- <img src="">
+<div align="center">
+  <img src="Enchanted_Book.gif">
+</div>
